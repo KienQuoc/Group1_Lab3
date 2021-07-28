@@ -14,6 +14,9 @@ public class nhom1 {
 	//Phép tính cộng
 	int tong = firstNumber + secondNumber;
         System.out.println(firstNumber + " + " + secondNumber + " = " + tong);
+                        
+        int nhan = firstNumber * secondNumber;
+        System.out.println(firstNumber + " * " + secondNumber + " = " + nhan);
         
         //viết code ở đây nhé mấy bạn
     }
