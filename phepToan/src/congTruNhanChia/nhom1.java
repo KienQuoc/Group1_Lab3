@@ -17,7 +17,11 @@ public class nhom1 {
                         
         int nhan = firstNumber * secondNumber;
         System.out.println(firstNumber + " * " + secondNumber + " = " + nhan);
-        
+	
+	//Phép tính trừ
+	int hieu = firstNumber - secondNumber;
+        System.out.println(firstNumber + " - " + secondNumber + " = " + hieu);
+
         //viết code ở đây nhé mấy bạn
     }
 
