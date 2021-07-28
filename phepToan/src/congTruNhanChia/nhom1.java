@@ -11,8 +11,8 @@ public class nhom1 {
         System.out.println("Nhập vào số thứ hai: ");
         int secondNumber = scanner.nextInt();
 		
-		//Phép tính cộng
-		int tong = firstNumber + secondNumber;
+	//Phép tính cộng
+	int tong = firstNumber + secondNumber;
         System.out.println(firstNumber + " + " + secondNumber + " = " + tong);
         
         //viết code ở đây nhé mấy bạn
