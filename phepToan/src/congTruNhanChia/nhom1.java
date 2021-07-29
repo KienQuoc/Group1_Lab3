@@ -22,7 +22,11 @@ public class nhom1 {
 	int hieu = firstNumber - secondNumber;
         System.out.println(firstNumber + " - " + secondNumber + " = " + hieu);
 
-        //viết code ở đây nhé mấy bạn
+        //Phép tính chia
+	float thuong = (float) firstNumber / secondNumber;
+        System.out.println(firstNumber + " / " + secondNumber + " = " + 
+                decimalFormat.format(thuong));  // làm tròn thương đến 2 chữ số thập phân
+       
     }
 
 }
